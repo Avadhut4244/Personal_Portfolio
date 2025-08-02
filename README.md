@@ -7,7 +7,7 @@
   Optimized for all devices.
 
   <br /><br />
-  🔗 <a href="https://Avadhut4244.github.io/Personal_Portfolio/"><strong>➥ Live Demo</strong></a>
+  🔗 <a href="https://avadhut4244.github.io/Personal_Portfolio/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
