@@ -7,7 +7,7 @@
     Compatible with all devices and built using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>.
   </p>
 
- 👉 [🔗 Live Demo](https://avadhut4244.github.io/Personal_Portfolio/)
+ 👉 [🔗 Live Demo](https://Avadhut4244.github.io/Personal_Portfolio/)
 
 </div>
 
