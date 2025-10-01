@@ -1,24 +1,7 @@
-/*-----------------------------------*\
- * style.css
-\*-----------------------------------*/
-
-/**
- * copyright 2022 codewithsadee
- */
-
-
-
-
-
-/*-----------------------------------*\
- * #CUSTOM PROPERTY
-\*-----------------------------------*/
 
 :root {
 
-  /**
-   * colors
-   */
+
 
   --raw-seinna: hsl(24, 74%, 58%);
   --sizzling-sunrise: hsl(51, 95%, 54%);
@@ -1122,7 +1105,7 @@ textarea.input-field {
 
   .hero-banner {
     max-width: unset;
-    height: 100%;
+    height: 80%;
     margin-bottom: 0;
   }
 
