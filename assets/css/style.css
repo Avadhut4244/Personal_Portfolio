@@ -223,7 +223,7 @@ body.active { overflow: hidden; }
   position: absolute;
   top: 100%;
   left: 0;
-  width: 60px;
+  width: 22px;
   height: 2px;
   background: var(--color-secondary);
 }
@@ -1093,9 +1093,7 @@ textarea.input-field {
 
 
 
-  /**
-   * HERO
-   */
+ 
 
   .hero {
     position: relative;

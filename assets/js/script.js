@@ -82,9 +82,7 @@ if (localStorage.getItem("theme") === "light_theme") {
   document.body.classList.add("dark_theme");
 }
 
-/**
- * contact form submit logic
- */
+/* contact form submit logic*/
 const form = document.getElementById("contactForm");
 
 form.addEventListener("submit", (e) => {
